@@ -1,3 +1,63 @@
+.banner {
+ 
+    background-image: url(../img/pattern.png);
+    background-position: top center;
+    background-color: rgb(45, 147, 225);
+    background-size: 500px;
+}
+.banner > img{
+    width: 300px;
+    text-align: bottom;
+    margin-top: 50px;
+}
+
+
+.titolo > h6{
+    margin-top:0;
+}
+
+.titolo > h4{
+    margin-bottom:0;
+    margin-top: 0;
+}
+
+.titolo > h1{
+    margin-bottom: 0;
+}
+
+
+#fotografi{
+    margin: 0px;
+    font-size: 10px;
+}
+
+#giallo{
+    background-color: yellow;
+    color: black;
+}
+
+ul{
+    padding-left: 10px;
+}
+
+.sx{
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+}
+
+.dx{
+    display: inline-block;
+    width: 48%;
+}
+
+.centro{
+    display: inline-block;
+    width: 25%;
+}
+
+
+
 #footer-titolo{
     color: grey;
     margin-bottom: 10px;
